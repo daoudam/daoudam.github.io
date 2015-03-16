@@ -149,3 +149,13 @@ footer .nav>li>a:hover {
     background-color:transparent;
 	color:#fff;
 }
+ 
+ /* Ajout CSS @author DAOUDA*/
+.marge {
+margin-left: 5em;
+margin-right: 5em;
+}
+.tabulation {
+margin-left: 6em;
+}
+ 
