@@ -158,4 +158,9 @@ margin-right: 5em;
 .tabulation {
 margin-left: 6em;
 }
- 
+.featurette-divider2 {
+  margin: 40px 0; /* Space out the Bootstrap <hr> more */
+}
+ .titrebasgauche {
+margin-left: 3em;
+}
